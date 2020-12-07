@@ -3,7 +3,7 @@
 An attempt to solve the cpd puzzle for a prize of 100 ETH
 
 - [Summary](#summary)
-- [Official articles](#official-hints)
+- [Official hints](#official-hints)
 
 ![puzzle picture](./100_eth_puzzle.jpg)
 
